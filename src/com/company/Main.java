@@ -1,9 +1,9 @@
 package com.company;
 
+import java.io.*;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.*;
 import java.nio.charset.Charset;
 import java.nio.file.*;
 import java.util.Collections;
